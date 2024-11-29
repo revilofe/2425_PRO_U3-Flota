@@ -1,8 +1,7 @@
-# Práctica 3.3: Conjuntos
+# Práctica Hundir la flota.
 
-Apoyate en los siguientes recursos para realizar la práctica:
+Descripción de la práctoica
 
-[U3: 3. Conjuntos](https://revilofe.github.io/section1/u03/practica/PROG-U3.-Practica003/)
 
 ---
 
