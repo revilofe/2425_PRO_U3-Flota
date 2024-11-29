@@ -1,6 +1,6 @@
 # Práctica Hundir la flota.
 
-Descripción de la práctoica
+[Descripción de la práctica](https://github.com/revilofe/HundirFlota)
 
 
 ---
